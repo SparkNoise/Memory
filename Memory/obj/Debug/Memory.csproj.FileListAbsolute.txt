@@ -1,0 +1,9 @@
+c:\users\zelma\documents\visual studio 2013\Projects\Memory\Memory\bin\Debug\Memory.exe.config
+C:\Users\Zelma\Documents\Visual Studio 2013\Projects\Memory\Memory\bin\Debug\Memory.exe
+C:\Users\Zelma\Documents\Visual Studio 2013\Projects\Memory\Memory\bin\Debug\Memory.pdb
+C:\Users\Zelma\Documents\Visual Studio 2013\Projects\Memory\Memory\obj\Debug\Memory.csprojResolveAssemblyReference.cache
+C:\Users\Zelma\Documents\Visual Studio 2013\Projects\Memory\Memory\obj\Debug\Memory.Form1.resources
+C:\Users\Zelma\Documents\Visual Studio 2013\Projects\Memory\Memory\obj\Debug\Memory.Properties.Resources.resources
+C:\Users\Zelma\Documents\Visual Studio 2013\Projects\Memory\Memory\obj\Debug\Memory.csproj.GenerateResource.Cache
+C:\Users\Zelma\Documents\Visual Studio 2013\Projects\Memory\Memory\obj\Debug\Memory.exe
+C:\Users\Zelma\Documents\Visual Studio 2013\Projects\Memory\Memory\obj\Debug\Memory.pdb
